@@ -1,5 +1,11 @@
 ### Hello everybody, my name is Pratik 👋
 
+**
+
+## I'm a Student and hence, always learning about newer stuff...slowly but steadily.
+
+**
+
 - 🔭 I’m currently working on my second game on Unity.
 - 🌱 I’m currently learning DART.
 - 👯 I’m looking to collaborate on Game Development.

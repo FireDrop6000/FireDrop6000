@@ -17,3 +17,13 @@
 <a href="https://www.facebook.com/pratik.gayen.16906" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Facebook.svg" alt="Facebook" height="43" width="43" /></a>
 <a href="https://www.linkedin.com/in/pratik-gayen-502128154" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/linkedin.svg" alt="Linkedin" height="41" width="41" /></a>
 <a href="https://www.pratik.neel02@gmail.com" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Gmail.svg" alt="Gmail" height="45" width="45" /></a>
+
+### Languages and Tools I have worked with:
+<a href="https://java.com/en/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/java-seeklogo.com.svg" alt="Java" width="50" height="50"/> </a>
+<img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C.svg" alt="C" width="46" height="46"/> 
+<a href="https://www.python.org" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Python.svg" alt="Python" width="43" height="43"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C%23.svg" alt="C#" width="46" height="46"/> </a>
+<a href="https://atom.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/atom-seeklogo.com.svg" alt="Atom" width="43" height="43"/> </a>
+<a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836523!b!!g!!%2Bphoto%20%2Bshop!221441468!17534748188&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Adobe_Photoshop_CC.svg" alt="Photoshop CC" width="45" height="45"/> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Visual_Studio.svg" alt="Visual Studio" width="43" height="43"/> </a>
+<a href="https://unity.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/unity-seeklogo.com.svg" alt="Unity" width="48" height="48"/> </a>

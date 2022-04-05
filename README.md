@@ -11,7 +11,7 @@
 
 ### Why don't you talk with me? I don't talk much so you gotta start tho :D
 <a href="https://www.youtube.com/channel/UCdPbZiZkb9qd1Fb91RDI8YA" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/YouTube.svg" alt="YouTube" height="35" width="50" /></a>
-<a href="discordapp.com/users/FireDrop6000#9410" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/discord.svg" alt="Discord" height="48" width="48" /></a>
+<a href="discordapp.com/users/517293803778998272" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/discord.svg" alt="Discord" height="48" width="48" /></a>
 <a href="https://twitter.com/RM_Lucifer" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/twitter.svg" alt="Twitter" height="42" width="42" /></a>
 <a href="https://www.instagram.com/firedrop6000" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Instagram.svg" alt="Instagram" height="43" width="43" /></a>
 <a href="https://www.facebook.com/pratik.gayen.16906" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Facebook.svg" alt="Facebook" height="43" width="43" /></a>

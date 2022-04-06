@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my second game on Unity.
 - 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for help with learning new coding languages and development environments.
-- 💬 Ask me about whatever you want :)
+- 💬 Ask me whatever you want :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games more than I make them.
 

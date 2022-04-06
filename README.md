@@ -1,6 +1,8 @@
 ### Hello everybody, my name is Pratik 👋
 
-## I'm a Student and hence, always learning newer stuff...<br>Slowly but Steadily.
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
+
+## I'm a Student and hence, always learning new stuff...<br>Slowly but Steadily.
 
 - 🔭 I’m currently working on my second game on Unity.
 - 🌱 I’m currently learning Flutter.
@@ -28,3 +30,18 @@
 <a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836523!b!!g!!%2Bphoto%20%2Bshop!221441468!17534748188&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Adobe_Photoshop_CC.svg" alt="Photoshop CC" width="45" height="45"/> </a>
 <a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Visual_Studio.svg" alt="Visual Studio" width="43" height="43"/> </a>
 <a href="https://unity.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/unity-seeklogo.com.svg" alt="Unity" width="48" height="48"/> </a>
+
+### Profiles on other platforms:
+<a href="https://stackoverflow.com/users/12273890/firedrop6000" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Stack_Overflow.svg" alt="Stack Overflow" width="50" height="50"/> </a>
+<a href="https://pratikg.itch.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/itchio.svg" alt="itch.io" width="45" height="45"/> </a>
+<a href="https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Xbox.svg" alt="itch.io" width="45" height="45"/> </a>
+
+### Github Stats:
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireDrop6000&theme=swift&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireDrop6000)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/9LyLj3lqsSkBAdvKYG/giphy.gif" alt="Motto" />
+</p>
+

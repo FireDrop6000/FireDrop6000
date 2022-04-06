@@ -3,7 +3,7 @@
 ## I'm a Student and hence, always learning newer stuff...<br>Slowly but Steadily.
 
 - 🔭 I’m currently working on my second game on Unity.
-- 🌱 I’m currently learning DART.
+- 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for help with learning new coding languages and development environments.
 - 💬 Ask me about whatever you want :)
 - 😄 Pronouns: He/Him
@@ -23,6 +23,7 @@
 <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C.svg" alt="C" width="46" height="46"/> 
 <a href="https://www.python.org" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Python.svg" alt="Python" width="43" height="43"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C%23.svg" alt="C#" width="46" height="46"/> </a>
+<a href="https://dart.dev" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/dart-seeklogo.com.svg" alt="Dart" width="42" height="42"/> </a>
 <a href="https://atom.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/atom-seeklogo.com.svg" alt="Atom" width="43" height="43"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836523!b!!g!!%2Bphoto%20%2Bshop!221441468!17534748188&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGjb8F1S-LYcL8d53vOmOdXvjl05M5kGyLCivJLM0NdqmBBBeAXKPEBoCCQgQAvD_BwE" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Adobe_Photoshop_CC.svg" alt="Photoshop CC" width="45" height="45"/> </a>
 <a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Visual_Studio.svg" alt="Visual Studio" width="43" height="43"/> </a>

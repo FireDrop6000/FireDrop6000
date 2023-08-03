@@ -37,11 +37,11 @@
 <a href="https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Xbox.svg" alt="itch.io" width="45" height="45"/> </a>
 
 ### Github Stats:
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireDrop6000&theme=swift&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireDrop6000)](https://github.com/anuraghazra/github-readme-stats)
+### ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireDrop6000&theme=swift&show_icons=true)
+### <br>
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireDrop6000)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/9LyLj3lqsSkBAdvKYG/giphy.gif" alt="Motto" />
-</p>
+### <p align="center">
+  ### <img src="https://media.giphy.com/media/9LyLj3lqsSkBAdvKYG/giphy.gif" alt="Motto" />
+### </p>
 

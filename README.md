@@ -18,6 +18,10 @@
 <a href="https://www.linkedin.com/in/pratik-gayen-502128154" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/linkedin.svg" alt="Linkedin" height="41" width="41" /></a>
 <a href="https://www.pratik.neel02@gmail.com" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Gmail.svg" alt="Gmail" height="45" width="45" /></a>
 
+### Yes I know terminals:
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/win.png" alt="Windows" width="50" height="50"/> </a>
+<a href="https://www.debian.org/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/debian.png" alt="Debian" width="50" height="50"/></a><a href="https://archlinux.org/" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/arch.png" alt="Arch Linux" width="50" height="50"/> </a>
+
 ### Languages and Tools I have worked with:
 <a href="https://html.spec.whatwg.org/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/html.png" alt="HTML" width="50" height="50"/> </a>
 <a href="https://java.com/en/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/java-seeklogo.com.svg" alt="Java" width="50" height="50"/> </a>

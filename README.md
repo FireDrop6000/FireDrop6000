@@ -6,7 +6,7 @@
 
 ### Experienced platforms:
 <p>
-<img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/win.png" alt="Windows" width="50" height="50" title="Windows"/>
+<img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/win.png" alt="Windows" width="44" height="44" title="Windows"/>
 <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/linux.png" alt="Linux" width="50" height="50" title="Linux"/>
 </p>
 
@@ -24,7 +24,7 @@
 
 ### Frameworks:
 <p>
-<img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/postgresql.png" alt="PostgreSQL" height="43" title="PostgreSQL"/>
+<img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/postgresql.png" alt="PostgreSQL" height="43" title="PostgreSQL" style="margin-bottom: 30px;"/>
 <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/mysql.png" alt="MySQL" height="43" title="MySQL"/>
 <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/mongodb-atlas.png" alt="MongoDB Atlas" height="43" title="MongoDB Atlas"/>
 <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/maven.png" alt="Maven" height="43" title="Maven"/>

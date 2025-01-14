@@ -27,7 +27,7 @@
 ### Frameworks:
 <a href="https://www.postgresql.org" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/postgresql.png" alt="PostgreSQL" height="43"/></a>
 <a href="https://www.mysql.com" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/mysql.png" alt="MySQL" height="43"/></a>
-<a href="https://www.mongodb.com/products/platform/atlas-database" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/mongodb-atlas.png" alt="Maven" height="43"/></a>
+<a href="https://www.mongodb.com/products/platform/atlas-database" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/mongodb-atlas.png" alt="MongoDB Atlas" height="43"/></a>
 ### Profiles on other platforms:
 <a href="https://stackoverflow.com/users/12273890/firedrop6000" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Stack_Overflow.svg" alt="Stack Overflow" width="50" height="50"/> </a>
 <a href="https://pratikg.itch.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/itchio.svg" alt="itch.io" width="45" height="45"/> </a>

@@ -1,6 +1,6 @@
 ### Hello everybody, my name is Pratik 👋
 
-## I believe in excellence and perfection, with a constantly open mind to learn.
+## I believe in excellence and perfection, with an open mind to learn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have found my first love on 21.
 
@@ -51,6 +51,8 @@
   <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/spring-security.png" alt="Spring Security" height="43" title="Spring Security"/>
 </p>
 
+<br>
+<hr>
 <br>
 
 ### Contact me

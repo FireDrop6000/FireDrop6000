@@ -1,3 +1,6 @@
+<p align=center>
+  <img src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/github-banner.png" alt="Banner" />
+</p>
 ### Hello everybody, my name is Pratik 👋
 
 ## I believe in excellence and perfection, with an open mind to learn.

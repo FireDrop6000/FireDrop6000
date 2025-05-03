@@ -4,9 +4,8 @@
 
 ### Hello everybody, my name is Pratik 👋
 
-## I believe in excellence and perfection, with an open mind to learn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have found my first love on 21.
+- 🧑🏻‍🎓 I am a CS undergrad
+- 💻 I theme Linux systems to stay consistent
 
 ### Experiences
 *I use Arch btw :)*

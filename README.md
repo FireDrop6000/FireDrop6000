@@ -4,7 +4,7 @@
 
 ### Hello everybody, my name is Pratik 👋
 
-- 🧑🏻‍🎓 I am a CS undergrad
+- 🧑🏻‍🎓 I am a CS undergrad and currently working as a Data Analyst
 - 💻 I theme Linux systems to stay consistent
 
 ## 🌐 Socials:
